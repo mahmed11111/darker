@@ -1,0 +1,15 @@
+{
+  "title": "query",
+  "description": "query",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "query": {
+      "title": "query",
+      "type": "string",
+      "description": "qurey",
+      "editor": "textfield"
+    }
+  },
+  "required": []
+}
